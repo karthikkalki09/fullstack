@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+ecommerce-website/node_modules/
+server/node_modules/
+
+# Builds
+ecommerce-website/build/
+
+# Env / secrets
+.env
+server/.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+

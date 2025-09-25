@@ -1,0 +1,8 @@
+{
+  "appId": "com.NXew.app",
+  "appName": "NXew",
+  "webDir": "ecommerce-website/build",
+  "server": {
+    "androidScheme": "https"
+  }
+}
